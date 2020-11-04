@@ -1,0 +1,3 @@
+Web_Crawler_logger - INFO - Started the web crawl
+Web_Crawler_logger - INFO - Total passed URL's: 1000
+Web_Crawler_logger - INFO - Total time taken to run web crawl: 11.1020064
